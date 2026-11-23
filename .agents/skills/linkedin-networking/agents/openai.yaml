@@ -1,0 +1,7 @@
+interface:
+  display_name: "LinkedIn Networking"
+  short_description: "Plan LinkedIn connections and reactions"
+  default_prompt: "Use $linkedin-networking to review people and posts for my next LinkedIn session."
+  icon_small: "./assets/networking-64.png"
+  icon_large: "./assets/networking-256.png"
+  brand_color: "#274862"
